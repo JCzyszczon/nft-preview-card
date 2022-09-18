@@ -75,5 +75,5 @@ Users should be able to:
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-[live-page]: jczyszczon.github.io/nft-preview-card/
+[live-page]: https://jczyszczon.github.io/nft-preview-card/
 [solution-url]: https://www.frontendmentor.io/solutions/responsive-nft-preview-card-component-l2Ri4X-i77
